@@ -22,7 +22,7 @@ My current stack is:
 - <img src="./logos/webpack.svg" width="16px" height="16px"> Webpack
 - <img src="./logos/git.svg" width="16px" height="16px"> Git
 
-Would like use my skill to contribute my knowledge and skills to a comercial project. 
+Would like to use my skills to contribute into a commercial project.
 
 
 <img src="./Frontend.png" width="640px" height="480px">
