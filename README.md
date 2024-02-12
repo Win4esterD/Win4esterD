@@ -1,6 +1,5 @@
 # Hi, I'm Pável Didenko!👋
 
-<!-- <img src="./Frontend.png" width="640px" height="480px"> -->
 
 ### I'm Frontend developer with 2 years of practical experience. ###
 
@@ -26,3 +25,4 @@ My current stack is:
 Would like use my skill to contribute my knowledge and skills to a comercial project. 
 
 
+<img src="./Frontend.png" width="640px" height="480px">
