@@ -1,6 +1,6 @@
 # Hi, I'm Pável Didenko!👋
 
-![Frontend wallpaper](/Frontend.png "Frontend wallpaper")
+<!-- <img src="./Frontend.png" width="640px" height="480px"> -->
 
 ### I'm Frontend developer with 2 years of practical experience. ###
 
@@ -23,5 +23,6 @@ My current stack is:
 - <img src="./logos/webpack.svg" width="16px" height="16px"> Webpack
 - <img src="./logos/git.svg" width="16px" height="16px"> Git
 
+Would like use my skill to contribute my knowledge and skills to a comercial project. 
 
 
