@@ -25,4 +25,3 @@ My current stack is:
 Would like to use my skills to contribute into a commercial project.
 
 
-<img src="./Frontend.png" width="640px" height="480px">
