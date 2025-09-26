@@ -1,14 +1,6 @@
 # Hi, I'm Pável Didenko!👋
 
 
-### I'm Frontend developer with 2 years of practical experience. ###
-
-
-I like to code. Enjoy development of web applications, especially when I get paid for it, ha-ha.
-In the past I worked as marketing specialist, but since December 2020 I decided to join tech.
-In 2022 I started to learn Frontend and during my journey I developed many web applications
-and obtained a lot of experience.
-
 My current stack is:
 
 - <img src="./logos/next-js.svg" width="16px" height="16px"> Next.js
